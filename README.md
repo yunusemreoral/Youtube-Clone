@@ -1,8 +1,24 @@
-# React + Vite
+# Youtube-Clone 📹
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<li>Bu proje Youtube-Clone site arayüzü içerir.</li>
+<li>Proje kullanıcılar için kategorilere ayrılmış videolar yer almaktadır.</li>
+<li>Herbir video için detay kısmında görüntüleme,kanal ismi,abone sayısı,izlenme oranı,beğenme oranı ve yorumlara erişim mevcuttur.</li>
+<li>Arama özelliği ile istenilen video kolaylıkla bulunabilir.</li>
+<li>Kullanıcı dostu responsive tasarımı vardır.</li>
 
-Currently, two official plugins are available:
+# Kullanılan Teknolojiler 🎨
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<li>⭐ React</li>
+<li>⭐ Vite</li>
+<li>⭐ TailwindCss</li>
+<li>⭐ React-Icons</li>
+<li>⭐ React-Player</li>
+<li>⭐ Axios</li>
+<li>⭐ Millify</li>
+<li>⭐ Apı</li>
+
+# Ekran Görüntüsü 🎥
+<img src="youtube.gif" width="auto">      
+
+# İletişim 📩
+yunusemreoral@hotmail.com.tr
