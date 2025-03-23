@@ -4,7 +4,7 @@
 <li>Proje kullanıcılar için kategorilere ayrılmış videolar yer almaktadır.</li>
 <li>Herbir video için detay kısmında görüntüleme,kanal ismi,abone sayısı,izlenme oranı,beğenme oranı ve yorumlara erişim mevcuttur.</li>
 <li>Arama özelliği ile istenilen video kolaylıkla bulunabilir.</li>
-<li>Kullanıcı dostu responsive tasarımı vardır.</li>
+<li>Kullanıcı dostu responsive tasarımı mevcuttur.</li>
 
 # Kullanılan Teknolojiler 🎨
 
